@@ -14,3 +14,12 @@ fields:
 - type: boolean
   name: show_sidebar
   label: show_sidebar
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Content
