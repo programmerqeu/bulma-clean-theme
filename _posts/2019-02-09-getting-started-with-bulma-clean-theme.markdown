@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting started with Bulma Clean Theme for Jekyll
+title: Getting started wohoo with Bulma Clean Theme for Jekyll
 date: 2019-02-09T20:00:07.000+00:00
 categories: development
 description: Getting started with Clean Theme for Jekyll and using it with GitHub
