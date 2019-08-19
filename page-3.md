@@ -1,11 +1,11 @@
 ---
-title: Page with menubar
+title: "Page with menubar! \U0001F63C"
 subtitle: Demo page with a menubar
 layout: page
 show_sidebar: false
 menubar: example_menu
----
 
+---
 This is another sample page showing how a page can look with a menubar. 
 
 ## Displaying a menubar
