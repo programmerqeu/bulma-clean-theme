@@ -1,0 +1,16 @@
+---
+label: Page with sidebar
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: text
+  name: layout
+  label: layout
+- type: boolean
+  name: show_sidebar
+  label: show_sidebar
