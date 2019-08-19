@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Getting started with Bulma Clean Theme for Jekyll"
-date:   2019-02-09 20:00:07
+title: Getting started with Bulma Clean Theme for Jekyll
+date: 2019-02-09T20:00:07.000+00:00
 categories: development
-description: "Getting started with Bulma Clean Theme for Jekyll and using it with GitHub Pages"
-image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
-published: true
+description: Getting started with Clean Theme for Jekyll and using it with GitHub
+  Pages
+image: https://www.csrhymes.com/img/bulma-clean-theme.jpg
 canonical_url: https://www.csrhymes.com/development/2019/02/09/getting-started-with-bulma-clean-theme.html
----
 
+---
 I have made a [theme for Jekyll](https://rubygems.org/gems/bulma-clean-theme) which is based on the Bulma frontend framework. It might look familiar, because I am also using it for this site. If you like the look of this theme then I thought I would write a little blog post about how to use it for your own site and how you can use it with GitHub Pages. 
 
 ## Getting started
@@ -141,4 +141,4 @@ It may seem like there is a lot to do to get started, but really it shouldn't ta
 
 ## Feedback and Issues
 
-If you have any feedback, ideas or issues with how the theme could be improved, then please create an issue on the theme's GitHub page and I will try and take a look into it as soon as I can. The theme is still quite new and I have quite a few ideas for future enhancements, so I will write a new blog post on this site when any new features become available. 
+If you have any feedback, ideas or issues with how the theme could be improved, then please create an issue on the theme's GitHub page and I will try and take a look into it as soon as I can. The theme is still quite new and I have quite a few ideas for future enhancements, so I will write a new blog post on this site when any new features become available.
